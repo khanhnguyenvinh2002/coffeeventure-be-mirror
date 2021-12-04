@@ -1,0 +1,501 @@
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.AssemblyInfoInputs.cache
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.AssemblyInfo.cs
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.csprojAssemblyReference.cache
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.exe
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.deps.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.runtimeconfig.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.runtimeconfig.dev.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.pdb
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/AutoMapper.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Dapper.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/EFCore.BulkExtensions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/EntityFramework.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Firebase.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Humanizer.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/IdentityModel.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/LiteDB.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.Cors.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.Http.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.Http.Cors.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.NodeServices.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/MySql.Data.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/RestSharp.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Reactive.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Z.EntityFramework.Extensions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Z.EntityFramework.Extensions.EFCore.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.RazorTargetAssemblyInfo.cache
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.csproj.CopyComplete
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/staticwebassets/coffeeventureAPI.StaticWebAssets.Manifest.cache
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/staticwebassets/coffeeventureAPI.StaticWebAssets.xml
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.pdb
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Scrutor.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.Razor.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.Helpers.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.WebPages.Deployment.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.WebPages.Razor.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.WebPages.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Web.Infrastructure.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/serviceDependencies.CoffeeVenture - Web Deploy.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/serviceDependencies.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/serviceDependencies.local.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/CoffeeVenture - Web Deploy/apis1.arm.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/CoffeeVenture - Web Deploy/profile.arm.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/local/mssql1.arm.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Core.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Security.KeyVault.Secrets.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Storage.Blobs.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Storage.Common.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.WindowsAzure.Storage.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/CoffeeVenture - Web Deploy/secrets1.arm.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/CoffeeVenture - Web Deploy/storage1.arm.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/local/storage1.arm.json
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Storage.Files.Shares.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Storage.Queues.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Azure.dll
+C:/Users/Nguyen Thi Kim Thuy/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.csproj.CoreCompileInputs.cache
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/serviceDependencies.CoffeeVenture - Web Deploy.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/serviceDependencies.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/serviceDependencies.local.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/CoffeeVenture - Web Deploy/apis1.arm.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/CoffeeVenture - Web Deploy/profile.arm.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/CoffeeVenture - Web Deploy/secrets1.arm.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/CoffeeVenture - Web Deploy/storage1.arm.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/local/mssql1.arm.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Properties/ServiceDependencies/local/storage1.arm.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.deps.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.runtimeconfig.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.runtimeconfig.dev.json
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/coffeeventureAPI.pdb
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Security.KeyVault.Secrets.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Storage.Blobs.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Storage.Common.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Storage.Files.Shares.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Azure.Storage.Queues.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Dapper.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/EFCore.BulkExtensions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/EntityFramework.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Firebase.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/IdentityModel.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/LiteDB.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.Cors.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.Razor.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.Http.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.Http.Cors.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.Helpers.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.WebPages.Deployment.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.WebPages.Razor.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Web.WebPages.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.NodeServices.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.Extensions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Azure.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Web.Infrastructure.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Scrutor.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Reactive.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Microsoft.WindowsAzure.Storage.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Z.EntityFramework.Extensions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/Z.EntityFramework.Extensions.EFCore.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.csprojAssemblyReference.cache
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.AssemblyInfoInputs.cache
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.AssemblyInfo.cs
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.RazorTargetAssemblyInfo.cache
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.csproj.CopyComplete
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/staticwebassets/coffeeventureAPI.StaticWebAssets.Manifest.cache
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/staticwebassets/coffeeventureAPI.StaticWebAssets.xml
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.pdb
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/bin/Debug/netcoreapp3.1/TimeZoneConverter.dll
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.csproj.CoreCompileInputs.cache
+/Users/NguyenThiKimThuy1/Desktop/CoffeeVenture/coffeeventure-be/coffeeventureAPI/coffeeventureAPI/obj/Debug/netcoreapp3.1/coffeeventureAPI.genruntimeconfig.cache

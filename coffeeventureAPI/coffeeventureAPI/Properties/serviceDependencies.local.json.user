@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2021-04-23T13:24:08.4172877Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-04-22T18:54:32.8162398Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-04-20T15:29:51.3108772Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "coffeeventureAPI20210420220231ResourceGroup"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "1fa324dd-5757-43ec-aa1f-0e4e58466fcb"
+    },
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "1fa324dd-5757-43ec-aa1f-0e4e58466fcb"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "coffeeventureAPI20210420220231ResourceGroup"
+    }
+  }
+}

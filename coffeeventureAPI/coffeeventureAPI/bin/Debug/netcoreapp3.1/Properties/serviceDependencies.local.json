@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/coffeeventureapidb/databases/CoffeeVentureDB",
+      "type": "mssql.azure",
+      "connectionId": "DefaultConnection",
+      "secretStore": "LocalSecretsFile"
+    },
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/coffeeventurestorage",
+      "type": "storage.azure",
+      "connectionId": "AzureBlobStorage",
+      "secretStore": "LocalSecretsFile"
+    }
+  }
+}

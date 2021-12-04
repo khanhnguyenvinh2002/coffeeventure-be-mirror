@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6g3GWQyBJEu9P9P/J1K+IgAAAAACAAAAAAAQZgAAAAEAACAAAAAgcCWXa6hUOe9lVUzun5q+hK3+kk7M+Nq9r4MAsxE0ZgAAAAAOgAAAAAIAACAAAAC0rJeRRAqthOAHtr5IvfQLTBdxOJUyyVJQGI7T2gaPrYAAAABkYwGRGQucOAkVr/dVwQBjjob5gLmEb4ZMIxN7bOqGqWiJ1d0EY0lisWoDd859142RWQ5hDzlASS8E4EXmFmqCElOHC6CegEge5GLV+qTSuuBj18Fn+IH6Aa4BEUdH5GAo+4T8whYcKp8uUk+mxsbUB50O6liqmeM/7X61W9JZQEAAAADot13lJ1acD1cqSTQfNWxFPu3bfpPhAQlD5cFhCXLoIRmakYh/LFfWBuLeuQx9/7TUUTzgTt16EAl9fT/5qL5L</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AzureBlobStorage">
+      <Value>DefaultEndpointsProtocol=https%3bAccountName=coffeeventurestorage%3bAccountKey=rz05VM+0F+ieR2XU17yuWZ3BtnbtUEX07pAfZP9LhmxGuE8g0u1hfYhA04Bih+ahyet1Aa5eKYSiy4Zzb+jC0A==%3bBlobEndpoint=https://coffeeventurestorage.blob.core.windows.net/%3bTableEndpoint=https://coffeeventurestorage.table.core.windows.net/%3bQueueEndpoint=https://coffeeventurestorage.queue.core.windows.net/%3bFileEndpoint=https://coffeeventurestorage.file.core.windows.net/</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=coffeeventureapidb.database.windows.net%3bInitial Catalog=CoffeeVentureDB%3bUser ID=giakhanhvy%3bPassword=Vinhkhanh02.%3bConnect Timeout=30%3bEncrypt=True%3bTrustServerCertificate=False%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

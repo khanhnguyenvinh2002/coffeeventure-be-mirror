@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/coffeeventureAPIapi/apis/coffeeventureAPI",
+      "type": "apis.azure",
+      "apiEndpoint": "https://coffeeventureapiapi.azure-api.net/"
+    },
+    "mssql1": {
+      "resourceId": null,
+      "type": "mssql.onprem",
+      "connectionId": "DefaultConnection",
+      "secretStore": "AzureAppSettings"
+    },
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/coffeeventurestorage",
+      "type": "storage.azure",
+      "connectionId": "AzureBlobStorage",
+      "secretStore": "AzureAppSettings"
+    },
+    "secrets1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.KeyVault/vaults/coffeeventureAPIvault",
+      "type": "secrets.keyVault",
+      "connectionId": "VaultUri",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
