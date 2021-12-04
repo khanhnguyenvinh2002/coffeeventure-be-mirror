@@ -8,7 +8,7 @@ This code is only accessible to the coffee venture site origin. please do not tr
 
 ## Main features to notice:
 
-### JWT authorization can be foyund in Startup.cs 
+### JWT authorization can be found in Startup.cs 
 
 and is responsible for making sure that users are viewing allowed contents only
 
